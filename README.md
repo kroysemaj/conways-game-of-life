@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Conway's Game of Life, but for real this time
+
+[![Test](https://github.com/kroysemaj/conways-game-of-life/actions/workflows/test.yml/badge.svg)](https://github.com/kroysemaj/conways-game-of-life/actions/workflows/test.yml)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
